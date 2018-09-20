@@ -5,7 +5,7 @@ Besides the requirements:
 3) Reads in from input file all 5 variations (sphere, solid and checkered plane and box)
 4) Anti-Aliasing Supersampling (9) 
 
-use Makefile to compile, then its 
+use Makefile to compile: 
 ./rt default.txt img.ppm (1) for the default scene and any arguements after the img.pmm (in place of '1') 
                              will execute Anti-Aliasing. ("make default" should also work)
 
